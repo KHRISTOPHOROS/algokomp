@@ -2,7 +2,7 @@
 * Lab 1
 * Lab 2
 * ...
-*
-*
 
+== To run the files localy
+	cat inputfil.in | java programnamn 
 
